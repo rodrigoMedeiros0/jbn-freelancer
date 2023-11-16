@@ -3,8 +3,10 @@
 
 ## 💻 Sobre o projeto
 
-Esse foi um trabalho como freelancer para a empresa JBN. O trabalho consistiu em criar um site para mostrar para o usuário uma interface para que ele possa conhecer melhora a empresa, poder mandar mensagem no WhatsApp ou por e-mail, além de visualizar os atuais empreendimentos e qual seu grau de conclusão. 
-Além do site, foi criado um sistema com login, para que apenas pessoas autorizadas possam cadastrar os empreendimentos mostrados no site, além do cadastro, tem como editar e excluir, por fim tem como cadastrar novos usuários. 
+Esse foi um trabalho como freelancer para a empresa JBN. O trabalho consistiu em criar um sitesma para mostrar para o usuário uma interface para que ele possa conhecer melhora a empresa, poder mandar mensagem no WhatsApp ou por e-mail e visualizar os empreendimentos que estão prontos para morar, em construção ou em execução. 
+No sistema tem uma página com login , onde apenas pessoas autorizadas possam cadastrar os empreendimentos mostrados no site, além do cadastro, tem como editar e excluir, por fim tem como cadastrar novos usuários. 
+
+No backend foi construido uma  API RESTful para controlar quem tem acesso aos dados, enviar os dados em formato JSON. As requisições que são aceitas são: GET, POST, PATCH e DELELE. 
 
 
 Para a o frontend foi utilizado: React JS e Chakra UI
